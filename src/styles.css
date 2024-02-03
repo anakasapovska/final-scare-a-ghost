@@ -200,7 +200,7 @@ audio{ display: none;
 
   .grid {
     width: auto; /* Make the grid take full width on mobile */
-    height: 75%; /* Allow the grid to adjust its height based on content */
+    height: auto; /* Allow the grid to adjust its height based on content */
   }
 }
 

@@ -4,6 +4,8 @@ const startButton = document.querySelector('#start');
 // Add the missing query selectors:
 const score = document.querySelector('#score');  // Corrected selector
 const timerDisplay = document.querySelector('#timer');
+const player = document.getElementById('#player');
+
 
 let time = 0;
 let timer;
