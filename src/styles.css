@@ -199,8 +199,8 @@ audio{ display: none;
   }
 
   .grid {
-    width: auto; /* Make the grid take full width on mobile */
-    height: auto; /* Allow the grid to adjust its height based on content */
+    width: 100%; /* Make the grid take full width on mobile */
+    height: 100%; /* Allow the grid to adjust its height based on content */
   }
 }
 
